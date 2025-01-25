@@ -1,1 +1,1 @@
-##Файл запуска search_points.py
+## Файл запуска search_points.py
