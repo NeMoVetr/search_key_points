@@ -78,11 +78,7 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 ```
 3. Установите зависимости:
 ```bash
-pip install -r requirements.txt
-```
-Если файл `requirements.txt` ещё не создан, используйте список минимальных пакетов:
-```bash
-pip install opencv-python numpy matplotlib scikit-learn
+pip install matplotlib numpy opencv-python
 ```
 
 Тестировалось на **Python 3.9+**.
